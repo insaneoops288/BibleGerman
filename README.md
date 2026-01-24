@@ -1,2 +1,0 @@
-# BibleGerman
-BibleGerman
